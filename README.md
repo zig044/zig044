@@ -1,33 +1,34 @@
 
 <!--
-  TANISHQ | TOKYO NIGHT GITHUB PROFILE
-  GitHub: https://github.com/zig044
-  Theme: #1a1b26 / #7aa2f7 / #bb9af7 / #c0caf5
+  TANISHQ | GITHUB PROFILE README
+  Username: zig044
+  Theme: GitHub Dark + Electric Blue
+  Inspired by creative developer profiles
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=245&amp;color=0:1a1b26,45:24283b,100:414868&amp;text=TANISHQ&amp;fontColor=c0caf5&amp;fontSize=66&amp;fontAlignY=38&amp;font=Space%20Grotesk&amp;animation=twinkling&amp;desc=SOFTWARE%20DEVELOPER%20IN%20THE%20MAKING&amp;descAlignY=61&amp;descSize=17&amp;descColor=7aa2f7" alt="Tokyo Night animated header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0D1117,50:123453,100:0EA5E9&text=TANISHQ&fontColor=FFFFFF&fontSize=68&fontAlignY=42&font=Fira%20Code&animation=twinkling" alt="Tanishq animated banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=55&lines=%3E+Hello+World%2C+I'm+Tanishq+%F0%9F%91%8B;%3E+3rd+Year+B.Tech+CSE+Student;%3E+Java+%7C+Python+%7C+TypeScript+%7C+SQL;%3E+React+%7C+FastAPI+%7C+PostgreSQL;%3E+Building+Software+That+Solves+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=850&height=55&lines=Hey+there%2C+I'm+Tanishq+%F0%9F%91%8B;Java+%7C+Python+%7C+TypeScript+%7C+SQL;Backend+Development+%7C+AI+%7C+Computer+Vision;Turning+Ideas+Into+Real-World+Projects;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 <br>
 
 <a href="https://github.com/zig044">
-  <img src="https://img.shields.io/badge/GitHub-zig044-1a1b26?style=for-the-badge&amp;logo=github&amp;logoColor=c0caf5" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-zig044-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/tanishq-10b27a321/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-7aa2f7?style=for-the-badge&amp;logo=linkedin&amp;logoColor=1a1b26" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
 </a>
 <a href="mailto:singhtanishq808@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say_Hello-bb9af7?style=for-the-badge&amp;logo=gmail&amp;logoColor=1a1b26" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-Say_Hello-123453?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=zig044&amp;label=PROFILE+VIEWS&amp;color=7aa2f7&amp;style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/zig044?label=FOLLOWERS&amp;style=flat-square&amp;color=bb9af7&amp;labelColor=1a1b26" alt="Followers" />
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-9ece6a?style=flat-square&amp;labelColor=1a1b26" alt="Open to work" />
+<img src="https://komarev.com/ghpvc/?username=zig044&label=PROFILE+VIEWS&color=0EA5E9&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/zig044?label=FOLLOWERS&style=flat-square&color=0EA5E9&labelColor=0D1117" alt="Followers" />
+<img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-22C55E?style=flat-square&labelColor=0D1117" alt="Open to opportunities" />
 
 </div>
 
@@ -41,6 +42,7 @@
 [**PROJECTS**](#-featured-projects) &nbsp;•&nbsp;
 [**TECH STACK**](#-tech-stack) &nbsp;•&nbsp;
 [**STATS**](#-github-analytics) &nbsp;•&nbsp;
+[**ACTIVITY**](#-contribution-activity) &nbsp;•&nbsp;
 [**CONNECT**](#-connect)
 
 </div>
@@ -50,20 +52,13 @@
 ## 👨‍💻 About Me
 
 ```typescript
-interface Developer {
-  name: string;
-  education: string;
-  role: string;
-  languages: string[];
-  interests: string[];
-  currentlyBuilding: string[];
-  openTo: string[];
-}
-
-const tanishq: Developer = {
-  name: "Tanishq",
-  education: "B.Tech CSE | 3rd Year",
-  role: "Aspiring Software Developer",
+const tanishq = {
+  focus: [
+    "Backend Development",
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Full-Stack Applications"
+  ],
 
   languages: [
     "Java",
@@ -72,36 +67,35 @@ const tanishq: Developer = {
     "SQL"
   ],
 
-  interests: [
-    "Backend Engineering",
-    "Artificial Intelligence",
-    "Computer Vision",
-    "Full-Stack Development"
+  technologies: [
+    "React",
+    "FastAPI",
+    "PostgreSQL",
+    "SQLAlchemy",
+    "YOLO11"
   ],
 
-  currentlyBuilding: [
+  projects: [
     "AI-Based Pothole Detection",
-    "Supply Chain & Inventory Systems"
+    "Supply Chain & Inventory Management"
   ],
+
+  currently: "Building practical software solutions",
 
   openTo: [
-    "Software Development Internships",
-    "Backend Development Opportunities"
+    "Internships",
+    "Software Development Opportunities"
   ]
 };
-
-console.log("Welcome to my GitHub!");
 ```
 
 <details>
-<summary><b>⚡ More about me — click to expand</b></summary>
+<summary><b>⚡ More About Me — Click to Expand</b></summary>
 <br>
 
-- 🎓 Third-year B.Tech Computer Science & Engineering student.
-- 💻 Building practical applications using modern programming tools.
-- 🧠 Interested in backend systems, computer vision, and full-stack development.
-- 🗄️ Working with relational databases and REST APIs.
-- 🚀 Exploring software development internships and opportunities.
+I build real-world applications with a focus on backend engineering, artificial intelligence, and computer vision.
+
+I enjoy exploring how software, APIs, databases, and machine learning can work together to solve practical problems.
 
 </details>
 
@@ -117,13 +111,14 @@ console.log("Welcome to my GitHub!");
 
 **Detection & Maintenance Prioritisation System**
 
-An AI-powered road damage detection system using a custom-trained YOLO11 model.
+An AI-powered system designed to identify road damage and support maintenance prioritisation.
 
 **Highlights**
-- Image-based pothole detection
+- Custom-trained YOLO11 detection model
 - Python and FastAPI REST endpoints
-- PostgreSQL report management
-- Maintenance prioritisation algorithm
+- PostgreSQL-backed report management
+- Image upload and detection workflows
+- Priority scoring using road-damage factors
 
 **Tech Stack**
 
@@ -136,17 +131,17 @@ An AI-powered road damage detection system using a custom-trained YOLO11 model.
 
 **Management System**
 
-A software application focused on organising inventory records and supporting supply chain operations.
+An application focused on organising inventory records and supporting supply-chain operations.
 
 **Highlights**
-- Inventory data management
-- Supply chain workflows
+- Inventory record management
+- Supply-chain workflows
 - Database-driven operations
-- Improved visibility and tracking
+- Inventory visibility and tracking
 
 **Focus Areas**
 
-`Databases` `Inventory` `Application Logic`
+`Inventory` `Databases` `Application Logic`
 
 </td>
 </tr>
@@ -157,35 +152,37 @@ A software application focused on organising inventory records and supporting su
 <br>
 
 ```text
-             ROAD IMAGE
-                 |
-                 v
-          IMAGE UPLOAD
-                 |
-                 v
-        FASTAPI BACKEND
-                 |
-                 v
-         YOLO11 DETECTION
-                 |
-                 v
-       DETECTION RESULTS
-                 |
-          +------+------+
-          |             |
-          v             v
-    POSTGRESQL     PRIORITY ENGINE
-    REPORT DATA    Severity / Size
-                   Confidence / Road Type
-                   Repeat Occurrences
-          |             |
-          +------+------+
-                 |
-                 v
-         MAINTENANCE REPORT
+              ROAD IMAGE
+                  |
+                  v
+             IMAGE UPLOAD
+                  |
+                  v
+            FASTAPI BACKEND
+                  |
+                  v
+            YOLO11 MODEL
+                  |
+                  v
+           DETECTION RESULTS
+                  |
+           +------+------+
+           |             |
+           v             v
+       POSTGRESQL    PRIORITY ENGINE
+       REPORTS       Severity
+                     Size
+                     Confidence
+                     Road Type
+                     Repeat Occurrences
+           |             |
+           +------+------+
+                  |
+                  v
+          MAINTENANCE REPORT
 ```
 
-The system uses detection results and road-related factors to support maintenance prioritisation.
+The prioritisation logic uses detection results and road-related factors to support repair planning.
 
 </details>
 
@@ -193,9 +190,9 @@ The system uses detection results and road-related factors to support maintenanc
 <summary><b>📦 Explore the Inventory Management Project</b></summary>
 <br>
 
-The system focuses on managing inventory records and supporting supply-chain workflows through application logic and database operations.
+This project focuses on managing inventory records and supporting supply-chain operations through application logic and database management.
 
-Key areas include inventory tracking, record organisation, and operational visibility.
+The goal is to improve organisation, visibility, and tracking of inventory-related information.
 
 </details>
 
@@ -207,23 +204,23 @@ Key areas include inventory tracking, record organisation, and operational visib
 
 ### `languages`
 
-<img src="https://skillicons.dev/icons?i=java,python,ts&amp;theme=dark" alt="Java Python TypeScript" />
+<img src="https://skillicons.dev/icons?i=java,python,ts&theme=dark" alt="Java Python TypeScript" />
 
 **SQL**
 
 ### `frontend + backend`
 
-<img src="https://skillicons.dev/icons?i=react,fastapi&amp;theme=dark" alt="React FastAPI" />
+<img src="https://skillicons.dev/icons?i=react,fastapi&theme=dark" alt="React FastAPI" />
 
 **SQLAlchemy**
 
 ### `databases + tools`
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github&amp;theme=dark" alt="PostgreSQL MySQL Git GitHub" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github&theme=dark" alt="PostgreSQL MySQL Git GitHub" />
 
-### `artificial intelligence`
+### `computer vision`
 
-**YOLO (Ultralytics) · Computer Vision**
+**YOLO (Ultralytics)**
 
 </div>
 
@@ -231,7 +228,7 @@ Key areas include inventory tracking, record organisation, and operational visib
 <summary><b>🧰 Expand Full Technology Inventory</b></summary>
 <br>
 
-| Domain | Technologies |
+| Category | Technologies |
 | :--- | :--- |
 | Programming | Java, Python, TypeScript, SQL |
 | Frontend | React |
@@ -248,21 +245,21 @@ Key areas include inventory tracking, record organisation, and operational visib
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zig044&amp;show_icons=true&amp;hide_border=true&amp;bg_color=1a1b26&amp;title_color=7aa2f7&amp;text_color=c0caf5&amp;icon_color=bb9af7&amp;ring_color=7aa2f7" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zig044&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9&icon_color=0EA5E9" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zig044&amp;layout=compact&amp;hide_border=true&amp;bg_color=1a1b26&amp;title_color=7aa2f7&amp;text_color=c0caf5" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zig044&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9" alt="Most used languages" />
 
 <br>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=zig044&amp;hide_border=true&amp;background=1A1B26&amp;ring=7AA2F7&amp;fire=BB9AF7&amp;currStreakLabel=7AA2F7&amp;sideLabels=C0CAF5&amp;dates=9AA5CE&amp;stroke=414868" alt="GitHub streak" />
+<img width="75%" src="https://streak-stats.demolab.com?user=zig044&hide_border=true&background=0D1117&ring=7DD3FC&fire=0EA5E9&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
 
 </div>
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Trophies
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=zig044&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1" alt="GitHub trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=zig044&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 
 </div>
 
@@ -272,7 +269,7 @@ Key areas include inventory tracking, record organisation, and operational visib
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zig044&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=414868&hide_border=true)](https://github.com/zig044)
+[![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zig044&bg_color=0D1117&color=7DD3FC&line=0EA5E9&point=FFFFFF&area=true&area_color=123453&hide_border=true)](https://github.com/zig044)
 
 </div>
 
@@ -282,10 +279,10 @@ Key areas include inventory tracking, record organisation, and operational visib
 
 <div align="center">
 
-<!-- Requires a GitHub Actions workflow that generates the output branch. -->
-<img src="https://raw.githubusercontent.com/zig044/zig044/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+<!-- Requires a separate GitHub Actions workflow -->
+<img src="https://raw.githubusercontent.com/zig044/zig044/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 
-<sub>Snake animation appears after its GitHub Actions workflow runs successfully.</sub>
+<sub>Snake animation requires the GitHub Actions workflow to run successfully.</sub>
 
 </div>
 
@@ -298,21 +295,21 @@ Key areas include inventory tracking, record organisation, and operational visib
 <br>
 
 ```bash
-tanishq@tokyo-night:~$ whoami
-Tanishq | B.Tech CSE | Software Developer
+tanishq@github:~$ whoami
+Tanishq
 
-tanishq@tokyo-night:~$ cat interests.txt
+tanishq@github:~$ cat interests.txt
 Backend Development
-Computer Vision
 Artificial Intelligence
+Computer Vision
 Full-Stack Development
 
-tanishq@tokyo-night:~$ ls projects/
+tanishq@github:~$ ls projects/
 ai-pothole-detection/
 supply-chain-inventory/
 
-tanishq@tokyo-night:~$ echo "Let's build something useful."
-Let's build something useful.
+tanishq@github:~$ echo "Build. Learn. Improve."
+Build. Learn. Improve.
 ```
 
 </details>
@@ -329,20 +326,20 @@ Let's build something useful.
 
 **GET**
 
-A GET request is typically used to retrieve a resource without modifying it.
+A GET request is normally used to retrieve a resource without modifying it.
 
 </details>
 
 </details>
 
 <details>
-<summary><b>🎯 What Am I Currently Exploring?</b></summary>
+<summary><b>🎯 Current Focus</b></summary>
 <br>
 
-- Backend architecture and REST API development
-- Database-backed applications
-- Practical AI and computer vision systems
-- Better software engineering practices
+- Building database-backed applications
+- Improving REST API development skills
+- Exploring computer vision applications
+- Strengthening software engineering practices
 
 </details>
 
@@ -355,23 +352,23 @@ A GET request is typically used to retrieve a resource without modifying it.
 ### `> establish_connection()`
 
 <a href="https://github.com/zig044">
-  <img src="https://img.shields.io/badge/GitHub-Explore_Repositories-1a1b26?style=for-the-badge&amp;logo=github&amp;logoColor=c0caf5" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Explore_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/tanishq-10b27a321/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-7aa2f7?style=for-the-badge&amp;logo=linkedin&amp;logoColor=1a1b26" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
 </a>
 
 <a href="mailto:singhtanishq808@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-bb9af7?style=for-the-badge&amp;logo=gmail&amp;logoColor=1a1b26" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Say_Hello-123453?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
 </a>
 
 <br><br>
 
-**Thanks for visiting my little corner of GitHub.**
+**Thanks for stopping by!**
 
 `while (learning) { build(); improve(); repeat(); }`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=145&amp;color=0:1a1b26,45:24283b,100:414868" alt="Tokyo Night footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:0D1117,50:123453,100:0EA5E9" alt="Animated footer" />
 
 </div>
